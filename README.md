@@ -133,6 +133,10 @@ A correlation heatmap (sns.heatmap(data.corr(), annot=True)) shows:
 
 The code selects the 10 features with the highest correlation with Y and visualizes their correlation matrix, focusing on the most influential predictors of default.
 
+10. **Decision Tree**
+    <img width="2852" height="566" alt="image" src="https://github.com/user-attachments/assets/b463ab84-30fa-4870-85a1-204f3f481222" />
+
+
 ---
 ## 🏆 Results
 
